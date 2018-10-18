@@ -1,0 +1,30 @@
+{
+  "name": "@local/frontend-api-spec",
+  "version": "1.0.0",
+  "description": "前端接口约定工程，设计了前端需要的接口和模型",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sunsiansong/zhuangxiu_web_api-spec.git"
+  },
+  "keywords": [
+    "typescript",
+    "api-model",
+    "api-interface"
+  ],
+  "author": "sunxiansong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunsiansong/zhuangxiu_web_api-spec/issues"
+  },
+  "homepage": "https://github.com/sunsiansong/zhuangxiu_web_api-spec#readme",
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
